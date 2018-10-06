@@ -42,3 +42,12 @@ footer {
 	align-items: center;
 	align-content: stretch;
 }
+
+@font-face {
+    font-family: Helvetica;
+    src: url(../fonts/9202.otf) format("opentype");
+}
+
+p {
+    font-family: Helvetica;
+}
